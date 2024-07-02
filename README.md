@@ -3,10 +3,7 @@ The Art & Craft Store provides secure authentication via Firebase for email, pas
 ## Live Site URL
 [https://artistryavenue-2aebe.web.app/]
 
-## To Run Locally
-- **Clone the Repository:** Provides the command to clone the repository using Git.
-- **Install Dependencies:** Uses `npm install` to install all necessary dependencies for the project.
-- **Run the Project:** Executes `npm run dev` to start the project in development mode.
+
   
 ## Authentication 
 Users can log in with email/password or social media accounts using Firebase Authentication.
@@ -14,5 +11,12 @@ Users can log in with email/password or social media accounts using Firebase Aut
 Comprehensive display of various craft items with all necessary details.
 ## Item Management
 Users can add new arts & crafts items and manage their lists.
+
 ## Technologies Used
 HTML, Tailwindcss, JavaScript, React, Node.js, Express, MongoDB.
+
+
+## To Run Locally
+- **Clone the Repository:** Provides the command to clone the repository using Git.
+- **Install Dependencies:** Uses `npm install` to install all necessary dependencies for the project.
+- **Run the Project:** Executes `npm run dev` to start the project in development mode.
