@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ArtistryAvenue
+The Art & Craft Store provides secure authentication via Firebase for email, password, or social media logins. It offers detailed views of arts and crafts items and allows users to manage their lists by adding new items. Built with HTML, Tailwind CSS, JavaScript, React, Node.js, Express, and MongoDB, the platform ensures a smooth and responsive user experience from frontend to backend.
+## Live Site URL
+[https://artistryavenue-2aebe.web.app/]
+## Authentication: Users can log in with email/password or social media accounts using Firebase Authentication.
+## Detailed Item Views: Comprehensive display of various craft items with all necessary details.
+## Item Management: Users can add new arts & crafts items and manage their lists.
+## Technologies Used: HTML, Tailwindcss, JavaScript, React, Node.js, Express, MongoDB.
